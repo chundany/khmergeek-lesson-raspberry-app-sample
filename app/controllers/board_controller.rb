@@ -5,6 +5,7 @@ class BoardController < ApplicationController
 
   def action
   	flash[:success] = "done! action..."
+  	
     redirect_to action: 'home'
   end
 

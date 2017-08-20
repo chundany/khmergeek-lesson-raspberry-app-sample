@@ -22,3 +22,114 @@ I, [2017-07-02T15:59:28.562946 #36650]  INFO -- : Started GET "/assets/turbolink
 I, [2017-07-02T15:59:28.586780 #36650]  INFO -- : Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
 I, [2017-07-02T15:59:28.594781 #36650]  INFO -- : Started GET "/assets/switches.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
 I, [2017-07-02T15:59:28.603982 #36650]  INFO -- : Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-08-20T14:03:01.362802 #17851]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-08-20 14:03:01 +0700
+I, [2017-08-20T14:03:02.018022 #17851]  INFO -- : Processing by BoardController#home as HTML
+I, [2017-08-20T14:03:02.148244 #17851]  INFO -- :   Rendered board/home.html.erb within layouts/application (8.6ms)
+I, [2017-08-20T14:03:02.888754 #17851]  INFO -- :   Rendered layouts/_header.html.erb (1.1ms)
+I, [2017-08-20T14:03:02.889309 #17851]  INFO -- : Completed 200 OK in 871ms (Views: 797.5ms | ActiveRecord: 0.0ms)
+I, [2017-08-20T14:03:02.890826 #17851]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-08-20 14:03:02 +0700
+I, [2017-08-20T14:03:02.893913 #17851]  INFO -- : Processing by BoardController#home as HTML
+I, [2017-08-20T14:03:02.899381 #17851]  INFO -- :   Rendered board/home.html.erb within layouts/application (0.2ms)
+I, [2017-08-20T14:03:02.978937 #17851]  INFO -- :   Rendered layouts/_header.html.erb (0.2ms)
+I, [2017-08-20T14:03:02.979306 #17851]  INFO -- : Completed 200 OK in 85ms (Views: 84.6ms | ActiveRecord: 0.0ms)
+I, [2017-08-20T14:03:03.015971 #17851]  INFO -- : Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.031396 #17851]  INFO -- : Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.038115 #17851]  INFO -- : Started GET "/assets/shops.css?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.044076 #17851]  INFO -- : Started GET "/assets/samples.css?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.050200 #17851]  INFO -- : Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.056766 #17851]  INFO -- : Started GET "/assets/switches.css?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.063353 #17851]  INFO -- : Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.070510 #17851]  INFO -- : Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.079013 #17851]  INFO -- : Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.087917 #17851]  INFO -- : Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.093827 #17851]  INFO -- : Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.102869 #17851]  INFO -- : Started GET "/assets/samples.js?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.110918 #17851]  INFO -- : Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.120906 #17851]  INFO -- : Started GET "/assets/shops.js?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.126985 #17851]  INFO -- : Started GET "/assets/switches.js?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.132188 #17851]  INFO -- : Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.139383 #17851]  INFO -- : Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:03.143752 #17851]  INFO -- : Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2017-08-20 14:03:03 +0700
+I, [2017-08-20T14:03:06.583200 #17851]  INFO -- : Started GET "/reboot" for 127.0.0.1 at 2017-08-20 14:03:06 +0700
+I, [2017-08-20T14:03:06.606769 #17851]  INFO -- : Processing by BoardController#reboot as HTML
+I, [2017-08-20T14:03:06.611906 #17851]  INFO -- :   Rendered board/reboot.html.erb within layouts/application (0.4ms)
+I, [2017-08-20T14:03:06.713606 #17851]  INFO -- :   Rendered layouts/_header.html.erb (0.6ms)
+I, [2017-08-20T14:03:06.714318 #17851]  INFO -- : Completed 200 OK in 107ms (Views: 106.6ms | ActiveRecord: 0.0ms)
+I, [2017-08-20T14:16:21.342342 #17851]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-08-20 14:16:21 +0700
+I, [2017-08-20T14:16:21.516946 #17851]  INFO -- : Processing by BoardController#home as HTML
+I, [2017-08-20T14:16:21.532671 #17851]  INFO -- :   Rendered board/home.html.erb within layouts/application (4.6ms)
+I, [2017-08-20T14:16:21.728787 #17851]  INFO -- :   Rendered layouts/_header.html.erb (0.6ms)
+I, [2017-08-20T14:16:21.729306 #17851]  INFO -- : Completed 200 OK in 212ms (Views: 209.8ms | ActiveRecord: 0.0ms)
+I, [2017-08-20T14:16:21.856925 #17851]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-08-20 14:16:21 +0700
+I, [2017-08-20T14:16:21.860380 #17851]  INFO -- : Processing by BoardController#home as HTML
+I, [2017-08-20T14:16:21.878150 #17851]  INFO -- :   Rendered board/home.html.erb within layouts/application (0.3ms)
+I, [2017-08-20T14:16:22.017781 #17851]  INFO -- :   Rendered layouts/_header.html.erb (0.6ms)
+I, [2017-08-20T14:16:22.018192 #17851]  INFO -- : Completed 200 OK in 158ms (Views: 144.4ms | ActiveRecord: 0.0ms)
+I, [2017-08-20T14:16:22.044613 #17851]  INFO -- : Started GET "/assets/samples.css?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.057461 #17851]  INFO -- : Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.063226 #17851]  INFO -- : Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.066920 #17851]  INFO -- : Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.072327 #17851]  INFO -- : Started GET "/assets/switches.css?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.078225 #17851]  INFO -- : Started GET "/assets/shops.css?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.080939 #17851]  INFO -- : Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.085668 #17851]  INFO -- : Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.091629 #17851]  INFO -- : Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.098756 #17851]  INFO -- : Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.101314 #17851]  INFO -- : Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.110469 #17851]  INFO -- : Started GET "/assets/samples.js?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.116397 #17851]  INFO -- : Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.123985 #17851]  INFO -- : Started GET "/assets/shops.js?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.127889 #17851]  INFO -- : Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.132272 #17851]  INFO -- : Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.136037 #17851]  INFO -- : Started GET "/assets/switches.js?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:22.139948 #17851]  INFO -- : Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2017-08-20 14:16:22 +0700
+I, [2017-08-20T14:16:24.235326 #17851]  INFO -- : Started GET "/action" for 127.0.0.1 at 2017-08-20 14:16:24 +0700
+I, [2017-08-20T14:16:24.240390 #17851]  INFO -- : Processing by BoardController#action as HTML
+I, [2017-08-20T14:16:24.241895 #17851]  INFO -- : Redirected to http://localhost:3000/
+I, [2017-08-20T14:16:24.242152 #17851]  INFO -- : Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+I, [2017-08-20T14:16:24.250512 #17851]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-08-20 14:16:24 +0700
+I, [2017-08-20T14:16:24.252845 #17851]  INFO -- : Processing by BoardController#home as HTML
+I, [2017-08-20T14:16:24.260329 #17851]  INFO -- :   Rendered board/home.html.erb within layouts/application (0.2ms)
+I, [2017-08-20T14:16:24.357104 #17851]  INFO -- :   Rendered layouts/_header.html.erb (0.3ms)
+I, [2017-08-20T14:16:24.357472 #17851]  INFO -- : Completed 200 OK in 104ms (Views: 103.9ms | ActiveRecord: 0.0ms)
+I, [2017-08-20T14:16:27.736874 #17851]  INFO -- : Started GET "/action" for 127.0.0.1 at 2017-08-20 14:16:27 +0700
+I, [2017-08-20T14:16:27.784119 #17851]  INFO -- : Processing by BoardController#action as HTML
+I, [2017-08-20T14:16:27.785873 #17851]  INFO -- : Redirected to http://localhost:3000/
+I, [2017-08-20T14:16:27.786250 #17851]  INFO -- : Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+I, [2017-08-20T14:16:27.794019 #17851]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-08-20 14:16:27 +0700
+I, [2017-08-20T14:16:27.821194 #17851]  INFO -- : Processing by BoardController#home as HTML
+I, [2017-08-20T14:16:27.827954 #17851]  INFO -- :   Rendered board/home.html.erb within layouts/application (0.3ms)
+I, [2017-08-20T14:16:27.914034 #17851]  INFO -- :   Rendered layouts/_header.html.erb (0.2ms)
+I, [2017-08-20T14:16:27.914604 #17851]  INFO -- : Completed 200 OK in 93ms (Views: 92.5ms | ActiveRecord: 0.0ms)
+I, [2017-08-20T14:16:28.760712 #17851]  INFO -- : Started GET "/action" for 127.0.0.1 at 2017-08-20 14:16:28 +0700
+I, [2017-08-20T14:16:28.765189 #17851]  INFO -- : Processing by BoardController#action as HTML
+I, [2017-08-20T14:16:28.766518 #17851]  INFO -- : Redirected to http://localhost:3000/
+I, [2017-08-20T14:16:28.766797 #17851]  INFO -- : Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+I, [2017-08-20T14:16:28.774463 #17851]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-08-20 14:16:28 +0700
+I, [2017-08-20T14:16:28.776833 #17851]  INFO -- : Processing by BoardController#home as HTML
+I, [2017-08-20T14:16:28.782796 #17851]  INFO -- :   Rendered board/home.html.erb within layouts/application (0.2ms)
+I, [2017-08-20T14:16:28.867839 #17851]  INFO -- :   Rendered layouts/_header.html.erb (0.2ms)
+I, [2017-08-20T14:16:28.868163 #17851]  INFO -- : Completed 200 OK in 91ms (Views: 90.7ms | ActiveRecord: 0.0ms)
+I, [2017-08-20T14:20:17.681432 #17851]  INFO -- : Started GET "/action" for 127.0.0.1 at 2017-08-20 14:20:17 +0700
+I, [2017-08-20T14:20:17.885250 #17851]  INFO -- : Processing by BoardController#action as HTML
+I, [2017-08-20T14:20:17.886445 #17851]  INFO -- : Redirected to http://localhost:3000/
+I, [2017-08-20T14:20:17.886639 #17851]  INFO -- : Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+I, [2017-08-20T14:20:17.891544 #17851]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-08-20 14:20:17 +0700
+I, [2017-08-20T14:20:17.893535 #17851]  INFO -- : Processing by BoardController#home as HTML
+I, [2017-08-20T14:20:17.922396 #17851]  INFO -- :   Rendered board/home.html.erb within layouts/application (1.0ms)
+I, [2017-08-20T14:20:18.023454 #17851]  INFO -- :   Rendered layouts/_header.html.erb (0.5ms)
+I, [2017-08-20T14:20:18.024227 #17851]  INFO -- : Completed 200 OK in 130ms (Views: 130.0ms | ActiveRecord: 0.0ms)
+I, [2017-08-20T14:20:43.077788 #17851]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-08-20 14:20:43 +0700
+I, [2017-08-20T14:20:43.081833 #17851]  INFO -- : Processing by BoardController#home as HTML
+I, [2017-08-20T14:20:43.090310 #17851]  INFO -- :   Rendered board/home.html.erb within layouts/application (0.4ms)
+I, [2017-08-20T14:20:43.178319 #17851]  INFO -- :   Rendered layouts/_header.html.erb (0.2ms)
+I, [2017-08-20T14:20:43.178787 #17851]  INFO -- : Completed 200 OK in 97ms (Views: 96.2ms | ActiveRecord: 0.0ms)
+I, [2017-08-20T14:20:45.870559 #17851]  INFO -- : Started GET "/action" for 127.0.0.1 at 2017-08-20 14:20:45 +0700
+I, [2017-08-20T14:20:45.876588 #17851]  INFO -- : Processing by BoardController#action as HTML
+I, [2017-08-20T14:20:45.877852 #17851]  INFO -- : Redirected to http://localhost:3000/
+I, [2017-08-20T14:20:45.878285 #17851]  INFO -- : Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+I, [2017-08-20T14:20:45.887886 #17851]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-08-20 14:20:45 +0700
+I, [2017-08-20T14:20:45.890183 #17851]  INFO -- : Processing by BoardController#home as HTML
+I, [2017-08-20T14:20:45.898486 #17851]  INFO -- :   Rendered board/home.html.erb within layouts/application (0.4ms)
+I, [2017-08-20T14:20:45.986594 #17851]  INFO -- :   Rendered layouts/_header.html.erb (0.3ms)
+I, [2017-08-20T14:20:45.987039 #17851]  INFO -- : Completed 200 OK in 97ms (Views: 95.0ms | ActiveRecord: 0.0ms)
