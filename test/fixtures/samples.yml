@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  is_on: false
+  on_at: 2016-11-21 17:55:28
+  off_at: 2016-11-21 17:55:28
+
+two:
+  is_on: false
+  on_at: 2016-11-21 17:55:28
+  off_at: 2016-11-21 17:55:28

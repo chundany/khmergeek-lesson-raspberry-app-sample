@@ -1,0 +1,24 @@
+# Logfile created on 2017-07-02 15:59:27 +0700 by logger.rb/44203
+I, [2017-07-02T15:59:27.212994 #36650]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-07-02 15:59:27 +0700
+I, [2017-07-02T15:59:27.523378 #36650]  INFO -- : Processing by BoardController#home as HTML
+I, [2017-07-02T15:59:27.645256 #36650]  INFO -- :   Rendered board/home.html.erb within layouts/application (4.8ms)
+I, [2017-07-02T15:59:28.400014 #36650]  INFO -- :   Rendered layouts/_header.html.erb (1.1ms)
+I, [2017-07-02T15:59:28.400606 #36650]  INFO -- : Completed 200 OK in 877ms (Views: 837.2ms | ActiveRecord: 0.8ms)
+I, [2017-07-02T15:59:28.441775 #36650]  INFO -- : Started GET "/assets/samples.css?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.451612 #36650]  INFO -- : Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.461113 #36650]  INFO -- : Started GET "/assets/shops.css?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.467516 #36650]  INFO -- : Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.475497 #36650]  INFO -- : Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.479780 #36650]  INFO -- : Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.497751 #36650]  INFO -- : Started GET "/assets/switches.css?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.505010 #36650]  INFO -- : Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.515462 #36650]  INFO -- : Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.521697 #36650]  INFO -- : Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.536176 #36650]  INFO -- : Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.544007 #36650]  INFO -- : Started GET "/assets/samples.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.550389 #36650]  INFO -- : Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.557607 #36650]  INFO -- : Started GET "/assets/shops.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.562946 #36650]  INFO -- : Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.586780 #36650]  INFO -- : Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.594781 #36650]  INFO -- : Started GET "/assets/switches.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
+I, [2017-07-02T15:59:28.603982 #36650]  INFO -- : Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2017-07-02 15:59:28 +0700
