@@ -6,10 +6,21 @@ class BoardController < ApplicationController
   def action
   	flash[:success] = "action01"
 
-    pin.on
+    @@pin1.on
     sleep 1
-    pin.off
-    PiPiper::Pin.release(17)
+    @@pin1.off
+
+    @@pin2.on
+    sleep 1
+    @@pin2.off
+
+    @@pin3.on
+    sleep 1
+    @@pin3.off
+
+    @@pin4.on
+    sleep 1
+    @@pin4.off
 
     redirect_to action: 'home'
 
