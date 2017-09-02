@@ -7,20 +7,11 @@ class BoardController < ApplicationController
   	flash[:success] = "action01"
 
     @@pin1.on
-    sleep 1
-    @@pin1.off
-
-    @@pin2.on
-    sleep 1
     @@pin2.off
 
     @@pin3.on
-    sleep 1
-    @@pin3.off
-
-    @@pin4.on
-    sleep 1
     @@pin4.off
+    sleep 1
 
     redirect_to action: 'home'
 
