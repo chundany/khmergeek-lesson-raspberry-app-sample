@@ -11,7 +11,13 @@ class BoardController < ApplicationController
 
     @@pin3.on
     @@pin4.off
-    sleep 1
+    sleep 2
+
+    @@pin1.off
+    @@pin2.off
+
+    @@pin3.off
+    @@pin4.off
 
     redirect_to action: 'home'
 
