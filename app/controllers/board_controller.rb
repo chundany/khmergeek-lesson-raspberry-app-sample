@@ -1,28 +1,11 @@
 class BoardController < ApplicationController
-  before_action :mcp_3800, only: [:home]
+  before_action :mcp_3008, only: [:home]
 
   def home
   end
 
   def go
-  	flash[:success] = "go"
-
-    @@pin1.on
-    @@pin2.off
-    @@pin3.on
-    @@pin4.off
-    sleep 2
-    @@pin1.off
-    @@pin2.off
-    @@pin3.off
-    @@pin4.off
-
-    redirect_to action: 'home'
-
-  end
-
-  def back
-  	flash[:success] = "back"
+    flash[:success] = "go"
 
     @@pin1.off
     @@pin2.on
@@ -35,7 +18,22 @@ class BoardController < ApplicationController
     @@pin4.off
 
     redirect_to action: 'home'
+  end
 
+  def back
+  	flash[:success] = "back"
+
+    @@pin1.on
+    @@pin2.off
+    @@pin3.on
+    @@pin4.off
+    sleep 2
+    @@pin1.off
+    @@pin2.off
+    @@pin3.off
+    @@pin4.off
+
+    redirect_to action: 'home'
   end
 
   def left
