@@ -43,7 +43,7 @@ class BoardController < ApplicationController
     @@pin2.on
     @@pin3.off
     @@pin4.off
-    sleep 2
+    sleep 1
     @@pin1.off
     @@pin2.off
     @@pin3.off
@@ -60,7 +60,7 @@ class BoardController < ApplicationController
     @@pin2.off
     @@pin3.off
     @@pin4.on
-    sleep 2
+    sleep 1
     @@pin1.off
     @@pin2.off
     @@pin3.off
